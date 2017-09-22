@@ -44,7 +44,7 @@ This alone feature alone saves development time and effort with improved code na
 The extension utilizes some of the best and most popular python linters in order to analyze the source code and provide feedback to the user. Popular linters such as Pylint, Flake8, pydocstyle, and the like are used. As a user you could either use all of them or just one or none. Users have the ability to fine tune each linter placing relevant configuration files in the project directory.
 
 ### Code formatting
-Code formatting ensures your code meets certain standards of coding styles. This capability is provided by using either one of Yapf or AutoPep8 library. Using this feature you can be assured your code meets some of the best known standards in python coding (format) styles.
+Code formatting ensures your code meets certain standards of coding styles. This capability is provided by using either one of YAPF or autopep8 library. Using this feature you can be assured your code meets some of the best known standards in python coding (format) styles.
 
 ### Debugging
 The debugging experience provided is unparalleled. You could debug almost any type of application, web and console applications, local and remote applications (yes remote debugging too). The debugger provides a rich set of debugging capabilities such as:
